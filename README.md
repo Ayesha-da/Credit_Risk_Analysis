@@ -12,6 +12,8 @@ In random oversampling, instances of the minority class are randomly selected an
 
 ![naiveOversample](https://user-images.githubusercontent.com/84524153/135724813-16cd8a87-026e-4e37-bb8a-581a87c0a24d.png)
 
+##### The accuracy score is high at around 66%
+
 #### SMOTE Oversampling
 
 In synthetic minority oversampling technique (SMOTE), new instances are interpolated and the size of the minority is increased.
