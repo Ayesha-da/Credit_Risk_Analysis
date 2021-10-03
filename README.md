@@ -17,7 +17,7 @@ In random oversampling, instances of the minority class are randomly selected an
 ##### The accuracy score of this model is  around 66% 
 
 ##### The precision for high risk loans is very low around 1% but is very good at predicting low risk loans with precision of almost 100%.
-##### Recall is around 74% for high risk loans that is to say model can identify almost 75 % of risky loans but it can only identify about 55% of good ones.
+##### Recall is around 70% for high risk loans that is to say model can identify almost 70 % of risky loans but it can only identify about 63% of good ones.
 
 #### SMOTE Oversampling
 
@@ -61,7 +61,7 @@ A balanced random forest randomly under-samples each boostrap sample.
 
 ##### The accuracy score of this model is  around 87% 
 
-##### The precision for high risk loans is  low around 3% but is very good at predicting low good loans with precision of almost 100%.
+##### The precision for high risk loans is  low around 3% but is very good at predicting good loans with precision of almost 100%.
 ##### Recall is around 70% for high risk loans that is to say model can identify almost 70 % of risky loans and 87% of good loans are identified.
 
 ### Easy Ensemble AdaBoost Classifier
