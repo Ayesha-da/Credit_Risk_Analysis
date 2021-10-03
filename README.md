@@ -28,7 +28,7 @@ In synthetic minority oversampling technique (SMOTE), new instances are interpol
 ##### The accuracy score of this model is  around 66% 
 
 ##### The precision for high risk loans is very low around 1% but is very good at predicting low risk loans with precision of almost 100%.
-##### Recall is around 63% for high risk loans that is to say model can identify almost 63 % of risky loans but it can only identify about 69% of good ones.
+##### Recall is around 63% for high risk loans that is to say model can identify almost 63 % of risky loans and it can also identify about 69% of good ones.
 
 
 ### Undersampling
