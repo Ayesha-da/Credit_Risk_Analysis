@@ -67,6 +67,7 @@ A balanced random forest randomly under-samples each boostrap sample.
 ### Easy Ensemble AdaBoost Classifier
 
 Ensemble learning is the process of combining multiple models, like decision tree algorithms, to help improve the accuracy and robustness, as well as decrease variance of the model
+
 ![easyEnsemble](https://user-images.githubusercontent.com/84524153/135724871-b5d2f404-d6a1-40b6-b431-5f494100f0b0.png)
 
 ##### The accuracy score of this model is  around 93% 
