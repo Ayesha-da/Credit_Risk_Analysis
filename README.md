@@ -80,4 +80,4 @@ Ensemble learning is the process of combining multiple models, like decision tre
 Although SMOTE reduces the risk of oversampling but it does not always outperform random oversampling.While resampling can attempt to address imbalance, it does not guarantee better results.Resampling with SMOTEENN did not work miracles, but some of the metrics show an improvement over undersampling.Balanced random forest model have precision of 3% for bad loan applications which is indicative of large number of false positives.
 
 ### Recommendation:
-EasyEnsembleClassifier model  can identify 92% of risky loans and 94% of good loans. It has a precision of almost 100% for good loans and only 9 % for bad loans, that is to say it failed to notice bad loan applications but still overall it is a better model to use.
+EasyEnsembleClassifier model  can identify 92% of risky loans and 94% of good loans. It has a precision of almost 100% for good loans and only 9 % for bad loans, that is to say there are lot of false positives and it failed to notice good loan applications but still overall it is a better model to use.
